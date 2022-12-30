@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-meg-s
-- 👀 I’m interested in learning as many programming languages as possible before I start university.
+- 👀 I’m interested in learning as many programming languages as possible before I start uni.
 - 🌱 I’m currently learning Python, but looking to start C as soon as I get my certificate for Python.
 - 💞️ I’m looking to collaborate on anything that'll help me get some experience :)
 - 📫 How to reach me: 
