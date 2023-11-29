@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a-meg-s
 - 👀 I’m interested in learning as many programming languages as possible as I start uni.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on anything that'll help me get some experience :)
+- 🌱 I’m currently learning Java, as well as the basics of HTML, CSS, JavaScript, JSON...
+- 💞️ I’m looking to collaborate on projects that'll help me get some experience :)
 - 📫 How to reach me: 
             - best via email: codebymegan@gmail.com
             - I'll do my best to answer as soon as possible
