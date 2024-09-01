@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @a-meg-s
-- 👀 I’m interested in learning as many programming languages as possible as I start uni.
-- 🌱 I’m currently learning Java, as well as the basics of HTML, CSS, JavaScript, JSON...
-- 💞️ I’m looking to collaborate on projects that'll help me get some experience :)
+- 👀 I’m a Information & Cyber Security student based in Switzerland.
+- 🌱 I’m currently learning Python and C, as well as the basics of HTML, CSS, JavaScript, Python, JSON...
 - 📫 How to reach me: 
             - best via email: codebymegan@gmail.com
             - I'll do my best to answer as soon as possible
