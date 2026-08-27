@@ -1,5 +1,5 @@
 👋 Hi, I’m @a-meg-s
-- Cyber Security Analyst based in Switzerland.
+- Cybersecurity Analyst based in Switzerland.
 - Working on expanding my skillset with small projects in various programming languages (Java, C, Python...)
 - Very interested in SIOT, HW Security, Cloud, Pentesting, Security Economics (and much more)
 
