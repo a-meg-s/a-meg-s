@@ -1,7 +1,7 @@
 👋 Hi, I’m @a-meg-s
-- Information & Cyber Security student based in Switzerland.
-- Currently working on expanding my skillset with small projects in various programming languages (Java, C, Python...)
-- Very interested in SIOT, Cloud, Pentesting, Security Economics (and much more)
+- Cyber Security Analyst based in Switzerland.
+- Working on expanding my skillset with small projects in various programming languages (Java, C, Python...)
+- Very interested in SIOT, HW Security, Cloud, Pentesting, Security Economics (and much more)
 
 📫 How to reach me: 
   - best via email: codebymegan@gmail.com
